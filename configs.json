@@ -1,0 +1,6 @@
+{
+  "timer" : 15,
+  "blink": 10,
+  "start_message" :  "Pomodoro",
+  "end_message":  "Break"
+}
